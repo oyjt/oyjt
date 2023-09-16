@@ -37,7 +37,7 @@
 <br />
 
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- ⛺️ I have a private site: [小道博客](https://icnpath.com), you're welcome to come! ~
+- ⛺️ I have a private site: [https://icnpath.com](https://icnpath.com), you're welcome to come! ~
 - 📨 My email address is `oyjt001@gmail.com` Welcome to contact me 👏🏻 ~
 
 [![oyjt's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oyjt&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
