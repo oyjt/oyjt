@@ -41,8 +41,8 @@
 - 📨 My email address is `oyjt001@gmail.com` Welcome to contact me 👏🏻 ~
 
 <p align="center">
-<img   height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=oyjt&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
-<img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyjt&hide_title=true&hide_border=true&layout=compact" />
+<img height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=oyjt&hide_title=true&show_icons=true&include_all_commits=true&line_height=21" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyjt&hide_title=true&layout=compact" />
 </p>
 
 <!--
