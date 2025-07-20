@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=oyjt&hide_title=true&show_icons=true&include_all_commits=true&hide=issues" />
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=oyjt&hide_title=true&show_icons=true&include_all_commits=true&hide=issues&count_private=true&token=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" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyjt&hide_title=true&layout=compact" />
